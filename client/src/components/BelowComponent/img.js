@@ -1,0 +1,3 @@
+export const navbarLarge = "https://firebasestorage.googleapis.com/v0/b/zomato-project-5f980.appspot.com/o/Logo%2FnavbarLarge.jpg?alt=media&token=2cc8034e-bdd3-4689-a9d8-e8e121f47e69";
+export const navbarMedium = "https://firebasestorage.googleapis.com/v0/b/zomato-project-5f980.appspot.com/o/Logo%2FnavbarMedium.jpg?alt=media&token=11d4b7e9-6a60-4053-83c1-3b4425c2c064";
+export const navbarSmall = "https://firebasestorage.googleapis.com/v0/b/zomato-project-5f980.appspot.com/o/Logo%2FnavbarSmall.jpg?alt=media&token=a17728d7-c0c6-4cde-b376-e5e00b62829a";

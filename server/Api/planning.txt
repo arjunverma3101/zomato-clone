@@ -1,0 +1,10 @@
+API planning
+-> Auth
+-> Foods
+-> Restaurants
+-> Menu
+-> Order
+-> Reviews
+-> User
+-> Image
+-> Payments (Razorpay)
